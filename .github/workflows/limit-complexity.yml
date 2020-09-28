@@ -1,4 +1,4 @@
-name: Limit file size
+name: Limit Complexity
 
 on:
   push:
